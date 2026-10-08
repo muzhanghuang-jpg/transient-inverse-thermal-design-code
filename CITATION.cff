@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this code archive and the associated paper when available."
+type: software
+title: "Thermal Inverse Design: Transient Resistive Micro-Heater Simulation Code"
+version: "0.1.0"
+date-released: "2026-10-08"
+license: BSD-3-Clause
+authors:
+  - family-names: Huang
+    given-names: Muzhang
+  - family-names: Zhang
+    given-names: Junhe
+  - family-names: Dao
+    given-names: Khoi Phuong
+  - family-names: Hu
+    given-names: Juejun
+  - family-names: Kim
+    given-names: Hyun Jung

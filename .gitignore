@@ -1,0 +1,16 @@
+**/results/
+**/logs/
+*.mph
+*.mphbin
+*.mph.lock
+*.mat
+*.csv
+*.pdf
+*.png
+*.jpg
+*.log
+*.asv
+*.mex*
+.env
+__pycache__/
+.venv/
